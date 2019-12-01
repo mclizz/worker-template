@@ -15,3 +15,4 @@ wrangler generate projectname https://github.com/cloudflare/worker-template
 #### Serverless
 
 To deploy using serverless add a [`serverless.yml`](https://serverless.com/framework/docs/providers/cloudflare/) file.
+e38e2584f93e8ccc38ff2b9fb02eeb3d
